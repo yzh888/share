@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daa036c6-3ffe-486f-8e52-92f0b6f56023" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\maven_jar" />
+        <option name="mavenHome" value="D:/tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hrPDRiAWXhsluka5NuzJH5dWar" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/user-center/src/main/java/com/soft1851/user/center" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.soft1851.content.center.feignclient" />
+      <recent name="com.soft1851.content.center.domain.enums" />
+      <recent name="com.soft1851.content.center.controller" />
+      <recent name="com.soft1851.content.center.entity" />
+      <recent name="com.soft1851.content.center.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\share-app\user-center\src\main\java\com\soft1851\user\center" />
+      <recent name="D:\test\share-app\user-center\src\main\java\com\soft1851\user\center\domain" />
+      <recent name="D:\test\share-app\user-center\src\main\java\com\soft1851\user\center\entity" />
+      <recent name="D:\test\share-app\user-center\src\main\java\com\soft1851\user\center\listener" />
+      <recent name="D:\test\share-app\user-center\src\main\java\com\soft1851\user\center\mapper" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8089/content/call/ribbon" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8028/content/call/ribbon" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 34 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ContentCenterApplication">
+    <configuration name="SentinelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.content.center.SentinelTest" />
+      <module name="content-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.content.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-api_1#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ContentCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="content-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft1851.content.center.ContentCenterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="user-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft1851.user.center.UserCenterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SentinelTest" />
+      <item itemvalue="HTTP Request.rest-api_1#1" />
+      <item itemvalue="Spring Boot.ContentCenterApplication" />
+      <item itemvalue="Spring Boot.UserCenterApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SentinelTest" />
+        <item itemvalue="HTTP Request.rest-api_1#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa036c6-3ffe-486f-8e52-92f0b6f56023" name="Default Changelist" comment="" />
+      <created>1600766117897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600766117897</updated>
+      <workItem from="1600766120530" duration="4746000" />
+      <workItem from="1600777531726" duration="1401000" />
+      <workItem from="1600778978793" duration="674000" />
+      <workItem from="1600779690994" duration="285000" />
+      <workItem from="1600779993982" duration="37000" />
+      <workItem from="1600780042592" duration="1484000" />
+      <workItem from="1600781751201" duration="267000" />
+      <workItem from="1600782035730" duration="1194000" />
+      <workItem from="1600820015444" duration="1534000" />
+      <workItem from="1600822124871" duration="7628000" />
+      <workItem from="1601001046715" duration="3198000" />
+      <workItem from="1601194479518" duration="6810000" />
+      <workItem from="1601357511802" duration="10694000" />
+      <workItem from="1601380350616" duration="7207000" />
+      <workItem from="1601427900340" duration="7505000" />
+      <workItem from="1601636333825" duration="2545000" />
+      <workItem from="1601717655127" duration="705000" />
+      <workItem from="1601718377848" duration="746000" />
+      <workItem from="1601719764182" duration="479000" />
+      <workItem from="1601720258195" duration="71000" />
+      <workItem from="1601720354964" duration="1970000" />
+      <workItem from="1601727648807" duration="1216000" />
+      <workItem from="1601729156006" duration="429000" />
+      <workItem from="1601729613706" duration="884000" />
+      <workItem from="1601730579360" duration="1595000" />
+      <workItem from="1601733142744" duration="69000" />
+      <workItem from="1601813207596" duration="6610000" />
+      <workItem from="1601819884745" duration="2091000" />
+      <workItem from="1601822157328" duration="466000" />
+      <workItem from="1601823267304" duration="3375000" />
+      <workItem from="1601829669533" duration="90000" />
+      <workItem from="1601829803683" duration="1901000" />
+      <workItem from="1601831896206" duration="1058000" />
+      <workItem from="1601892831564" duration="109000" />
+      <workItem from="1601893333779" duration="1544000" />
+      <workItem from="1601965911104" duration="8109000" />
+      <workItem from="1601985932057" duration="1735000" />
+      <workItem from="1602027856306" duration="5466000" />
+      <workItem from="1602148536286" duration="15334000" />
+      <workItem from="1602170365066" duration="770000" />
+    </task>
+    <task id="LOCAL-00001" summary="投稿和审核接口">
+      <created>1602170456679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602170456680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="投稿和审核接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="投稿和审核接口" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="72" key="#Project_Structure" timestamp="1601966023329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601966023329" />
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601822561432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601822561432" />
+    <state x="514" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601730717210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601730717210" />
+    <state x="573" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1602163275360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602163275360" />
+    <state x="392" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602164358572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1602164358572" />
+    <state x="554" y="272" width="501" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602164587490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="272" width="501" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1602164587490" />
+    <state x="501" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601369772595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1601369772595" />
+    <state x="526" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601827562483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1601827562483" />
+    <state x="378" y="7" key="CommitChangelistDialog2" timestamp="1602170456054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="378" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602170456054" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1602148547651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602148547651" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1602170291905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602170291905" />
+    <state x="300" y="68" key="Maven.ArtifactSearchDialog" timestamp="1601365788621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1601365788621" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1600769195987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1600769195987" />
+    <state x="271" y="55" key="SettingsEditor" timestamp="1601724308751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601724308751" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1602171279746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602171279746" />
+    <state x="454" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1602148536327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602148536327" />
+    <state x="494" y="204" key="git4idea.merge.GitPullDialog" timestamp="1602170469025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="494" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1602170469025" />
+    <state x="118" y="65" key="new project wizard" timestamp="1600767693569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="118" y="65" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600767693569" />
+    <state x="426" y="188" width="672" height="677" key="run.anything.popup" timestamp="1600779966766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600779966766" />
+    <state x="208" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601820678439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="208" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601820678439" />
+  </component>
+</project>

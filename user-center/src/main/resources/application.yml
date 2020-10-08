@@ -1,0 +1,23 @@
+info:
+  name: user-center
+spring:
+  application:
+    name: user-center
+  datasource:
+    url: jdbc:mysql://106.15.234.237:3306/user_center?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
+    hikari:
+      username: root
+      password: abc.123
+      driver-class-name: com.mysql.cj.jdbc.Driver
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        #namespace: 71cff1f9-77ae-4966-977d-18e1f624471e
+        metadata:
+          instance: cc
+          version: 1.0
+server:
+  port: 8006
+rocketmq:
+  name-server: 47.111.64.183:9876
